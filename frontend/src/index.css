@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+:root {
+    --background-done: #b7eb8f;
+    --text-done: #237804;
+    --background-in-work: #ffd591;
+    --text-in-work: #ad4e00;
+    --background-pause: #91d5ff;
+    --text-pause: #0050b3;
+    --background-canceled: #f5f5f5;
+    --text-canceled: #595959;
+    --background-planned: #ffa39e;
+    --text-planned: #a8071a;
+    --footer-height: 65px;
+    --header-height: 65px;
+    --breadcrumps-height: 55px;
+}

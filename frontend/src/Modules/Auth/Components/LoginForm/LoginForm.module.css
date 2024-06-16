@@ -1,0 +1,25 @@
+.form {
+    background: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: min(450px, max(100%, 300px));
+}
+.signin_btn {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.checkbox {
+    margin-bottom: 10px;
+}
+
+.global_error {
+    display: block;
+}
+.last_from_item {
+    margin-bottom: 10px;
+}
+.form_item {
+    margin-bottom: 0;
+}

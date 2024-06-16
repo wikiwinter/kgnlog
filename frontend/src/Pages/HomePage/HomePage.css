@@ -1,0 +1,37 @@
+.home-page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/img/fon1.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.6; /* Adjust opacity as needed */
+}
+
+.content {
+    padding: 20px;
+}
+
+.section-container {
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    margin-top: 100px;
+}
+
+.responsive-title {
+    color: #000;
+}
+
+.responsive-button {
+    margin-top: 20px;
+}
